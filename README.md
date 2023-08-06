@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino, Raspberry Pi and AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jlvnuned@hotmail.com
+- 📫 How to reach me jlvnunes@hotmail.com
 
 <!---
 JN-ai/JN-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
